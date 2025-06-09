@@ -2,6 +2,8 @@
 Hi there! 👋 I'm Joshua, a computer science student from Germany with a passion for software development and music.<br><br>
 💻 About Me:<br>🎓 Studying computer science and working as a software developer<br>🔧 Primarily working with JVM languages like Kotlin and Java<br>🌱 Very familiar with Spring Boot, WebFlux and reactive programming<br>🎹 In my free time, I enjoy making music and working as a sound engineer at live concerts<br>🎮 gaming and game development is my passion<br>
 
+You can find my blog here: https://blog.joshuabrandes.net/blog. I write about my passions for music, sound and plan on writing more about programming, LLMs and more in the future.
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
